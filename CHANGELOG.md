@@ -3,6 +3,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.113
+## (2020-12-13)
+
+* docs: add documentation links [Aaron Shaw]
+
 # v1.5.112
 ## (2020-12-02)
 
